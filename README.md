@@ -14,7 +14,7 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 1. Appointment Booking & Cancellation Bot
 
