@@ -1,9 +1,6 @@
 # Voiceflow Text-Based Agents
 
-![No-Code](https://img.shields.io/badge/No--Code-FFA500?style=for-the-badge)  
-![Voiceflow](https://img.shields.io/badge/Voiceflow-0078D7?style=for-the-badge)  
-![API Integration](https://img.shields.io/badge/API%20Integration-32CD32?style=for-the-badge)  
-![Make Automation](https://img.shields.io/badge/Make%20Automation-FFD700?style=for-the-badge)
+![No-Code](https://img.shields.io/badge/No--Code-FFA500?style=for-the-badge)  ![Voiceflow](https://img.shields.io/badge/Voiceflow-0078D7?style=for-the-badge)  ![API Integration](https://img.shields.io/badge/API%20Integration-32CD32?style=for-the-badge)  ![Make Automation](https://img.shields.io/badge/Make%20Automation-FFD700?style=for-the-badge)
 
 
 Welcome to the repository for **Voiceflow Text-Based Agents**. This collection showcases the development of AI-powered chatbots designed to enhance efficiency and user experience for healthcare organizations. Each chatbot is built using Voiceflow and includes integrations with external tools and APIs for seamless automation.
