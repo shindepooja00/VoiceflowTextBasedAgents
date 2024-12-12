@@ -1,8 +1,11 @@
 # Voiceflow Text-Based Agents
 
 ![No-Code](https://img.shields.io/badge/No--Code-Orange?style=for-the-badge)
+
 ![Voiceflow](https://img.shields.io/badge/Voiceflow-Blue?style=for-the-badge)
+
 ![API Integration](https://img.shields.io/badge/API%20Integration-Green?style=for-the-badge)
+
 ![Make Automation](https://img.shields.io/badge/Make%20Automation-Yellow?style=for-the-badge)
 
 
